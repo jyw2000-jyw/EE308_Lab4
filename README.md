@@ -2,11 +2,7 @@
 ## MIEC Software Engineering：Design a small game
 
 
-import sys # 导入sys模块
-from PyQt5.QtWidgets import QMessageBox, QWidget, QApplication # 导入Qt模块
-from Game import Ui_Form # 导入ui设计模块
-import picture # 导入背景图模块
-from random import randint # 导入随机数函数
+
 
 class Game(QWidget, Ui_Form):
     # 初始化
