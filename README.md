@@ -1,5 +1,6 @@
-# EE308_Lab4 YUWEI,JIANG & JIYUAN,XU
-MIEC Software Engineering：Design a small game
+# EE308_Lab4 831901109_YUWEI,JIANG & 831901103_JIYUAN,XU
+## MIEC Software Engineering：Design a small game
+
 
 import sys # 导入sys模块
 from PyQt5.QtWidgets import QMessageBox, QWidget, QApplication # 导入Qt模块
