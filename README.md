@@ -3,4 +3,4 @@
 
 ### Game Preview
 #### Home Page
-<img src="EE308_Lab4_YUWEI,JIANG & JIYUAN,XU/动图展示.gif" width="900">
+<img src="EE308_Lab4_YUWEI,JIANG & JIYUAN,XU/动图展示.gif" width="100">
