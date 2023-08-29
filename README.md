@@ -10,3 +10,7 @@
 
 ### Play the game
 Installation package coming soon...
+
+### References
+[1]
+[2] 
