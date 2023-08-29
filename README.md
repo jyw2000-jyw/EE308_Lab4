@@ -7,3 +7,6 @@
 
 #### Rules of Game
 <img src="EE308_Lab4_YUWEI,JIANG & JIYUAN,XU/规则分类.png" width="400">
+
+### Play the game
+Installation package Coming soon...
