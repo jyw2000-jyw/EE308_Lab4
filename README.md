@@ -12,5 +12,5 @@
 Installation package coming soon...
 
 ### References
-[1]
-[2] 
+[1] xxx
+[2] xxx
