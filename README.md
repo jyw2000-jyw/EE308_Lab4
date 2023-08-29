@@ -4,3 +4,6 @@
 ### Game Preview
 #### Home Page
 <img src="EE308_Lab4_YUWEI,JIANG & JIYUAN,XU/动图展示.gif" width="400">
+
+#### Rules of Game
+<img src="EE308_Lab4_YUWEI,JIANG & JIYUAN,XU/规则分类.png" width="400">
